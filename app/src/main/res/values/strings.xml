@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AutoClicker</string>
+    <string name="accessibility_service_description">Accessibility executor for automation gestures</string>
+    <string name="notification_channel_name">Automation runtime</string>
+    <string name="notification_channel_description">Persistent execution engine</string>
+    <string name="notification_text">Automation engine is active</string>
+</resources>
